@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SudokuSolver</string>
+    <string name="Extract">Solve!</string>
+    <string name="Scan">Take Photo</string>
+</resources>

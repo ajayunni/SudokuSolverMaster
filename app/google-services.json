@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139965080289",
+    "firebase_url": "https://sudokusolvermaster.firebaseio.com",
+    "project_id": "sudokusolvermaster",
+    "storage_bucket": "sudokusolvermaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139965080289:android:8df1559a721f7a5c9c4da0",
+        "android_client_info": {
+          "package_name": "com.ajayunni.sudokusolvermaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139965080289-l2jf7tsubhmhgqfv7o2ktfq6lm4f7t9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajayunni.sudokusolvermaster",
+            "certificate_hash": "8ba36af19a1c6e108b542d66d75c4ec4248f4adc"
+          }
+        },
+        {
+          "client_id": "139965080289-emv57n49ogvpe76a6lk8k4ihec4p7abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CIu8Vne6jUaCNQYzatyrVr-7gWyHpdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139965080289-emv57n49ogvpe76a6lk8k4ihec4p7abh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
